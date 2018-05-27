@@ -1,0 +1,24 @@
+{
+  "name": "iot-core-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pindar/iot-core-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pindar/iot-core-poc/issues"
+  },
+  "homepage": "https://github.com/Pindar/iot-core-poc#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.2.1",
+    "mqtt": "^2.18.0",
+    "yargs": "^11.0.0"
+  }
+}
